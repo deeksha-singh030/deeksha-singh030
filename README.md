@@ -14,7 +14,7 @@
 
 ### About Me
 
-I'm currently learning Quantum Computing and Java. I've recently finished my Bachelors in Physics from [Sri Venkateswara College](svc.ac.in) affilated by [University of Delhi](du.ac.in). I always thrive to learn more. I'm always open to contribute, even if it's a small one, in the projects. 
+I'm currently learning Quantum Computing and Java. I've recently finished my Bachelors in Physics from [Sri Venkateswara College](svc.ac.in) affiliated by [University of Delhi](du.ac.in). I always thrive to learn more. I'm always open to contribute, even if it's a small one, in the projects. 
 
 <!--
 **deeksha-singh030/deeksha-singh030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
